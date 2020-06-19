@@ -1,0 +1,5 @@
+body{
+    padding: 16vh 4.5vw;
+    background: url("./assets/train.jpg") no-repeat;
+    background-size: cover;
+}
