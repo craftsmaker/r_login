@@ -1,0 +1,10 @@
+.container{
+    box-sizing: border-box;
+    background: url("../assets/train.jpg") no-repeat;
+    background-size: cover;
+    height: 74vh;
+    box-shadow: 10px 10px 30px black;
+    padding: 11.6vh 3vw;
+    display: flex;
+    overflow: overlay;
+}

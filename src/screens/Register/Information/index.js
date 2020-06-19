@@ -2,8 +2,8 @@ import React from "react";
 
 export default function(){
     return (
-        <p>
+        <div style={{display: "flex", flexDirection: "column", flex: 2}}>
             
-        </p>
+        </div>
     )
 }

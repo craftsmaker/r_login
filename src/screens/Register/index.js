@@ -6,10 +6,8 @@ import Information from "./Information";
 export default function() {
     return(
         <Container>
-            <div>
-                <Form/>
-                <Information/>
-            </div>
+            <Form/>
+            <Information/>
         </Container>
     )
 }

@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex:1;
+    flex-direction: column;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.inputSelection{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.input{
+    border: none;
+    background-color: unset;
+    border-bottom: 2px solid;
+    border-bottom-color: #777364;
+}
+
+.rowSelection{
+    display: flex;
+}
+
+.button{
+    display: flex;
+    flex:1;
+    border:none;
+    color: #fff;
+    background-color: unset;
+    cursor: pointer;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    flex: 1;
+    color: #fff;
+}
