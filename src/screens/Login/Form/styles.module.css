@@ -1,19 +1,12 @@
-.container{
-    display: flex;
-    flex:1;
-    flex-direction: column;
-}
-
 .form{
     display: flex;
-    flex:1;
     flex-direction: column;
 }
 
 .inputSelection{
     display: flex;
     flex-direction: column;
-    margin-bottom: 4vh;
+    margin-bottom: 50px;
 }
 
 .input{
@@ -21,13 +14,10 @@
     background-color: unset;
     border-bottom: 2px solid;
     border-bottom-color: #777364;
-    height: 5vh;
-    color: white;
 }
 
 .rowSelection{
     display: flex;
-    align-items: center;
 }
 
 .button{
@@ -46,23 +36,6 @@
     color: #fff;
 }
 
-.termsOfServiceLink{
-    color: #fff;
-}
-
 .label{
-    font-size: 1.5vw;
-}
-
-.termsOfUse{
-    color: #CECDC8;
-}
-
-
-.buttons{
-    display: flex;
-    align-items: center;
-    flex: 1;
-    justify-content: center;
-    align-items: center;
+    font-size: 2vw;
 }
