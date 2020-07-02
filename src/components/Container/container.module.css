@@ -1,6 +1,6 @@
 .container{
     box-sizing: border-box;
-    background: url("../assets/train_fading.png") no-repeat;
+    background: url("../../assets/train_fading.png") no-repeat;
     background-size: cover;
     height: 74vh;
     box-shadow: 10px 10px 30px black;

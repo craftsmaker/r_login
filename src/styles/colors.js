@@ -1,3 +1,3 @@
 export default {
-    fading: "#COBEBD"
+    fading: "#87876D"
 }

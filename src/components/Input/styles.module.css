@@ -1,0 +1,19 @@
+.label{
+    font-size: 1em;
+    color: #D2D1CD;
+}
+
+.inputSelection{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3vh;
+}
+
+.input{
+    border: none;
+    background-color: unset;
+    border-bottom: 2px solid;
+    border-bottom-color: #777364;
+    height: 4vh;
+    color: white;
+}

@@ -1,0 +1,8 @@
+.button{
+    display: flex;
+    border:none;
+    color: #fff;
+    background-color: unset;
+    cursor: pointer;
+    align-items: center;
+}
