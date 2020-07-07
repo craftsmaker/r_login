@@ -27,7 +27,7 @@
 
 Simple User Interface without funcionality made in React
 
-[Desing - Aditya Sutar](https://dribbble.com/shots/11522403--DailyUI-Day-23-onboarding)
+[Design - Aditya Sutar](https://dribbble.com/shots/11522403--DailyUI-Day-23-onboarding)
 
 ## Licença
 
